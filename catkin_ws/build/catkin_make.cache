@@ -1,0 +1,2 @@
+ros_threads
+-DCATKIN_DEVEL_PREFIX=/home/stavrow/ros_threads/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/stavrow/ros_threads/catkin_ws/install -G Unix Makefiles
